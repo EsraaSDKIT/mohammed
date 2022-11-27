@@ -1,0 +1,383 @@
+#information1 {
+
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+#information2 ul li {
+    list-style: circle;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#information3 {
+
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#activ img {
+
+    width: 50%;
+    height: 50%;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+
+nav {
+    background-color: darkslategray;
+    border-radius: 5px;
+    height: 20%;
+}
+
+#top1 img {
+    width: 60%;
+    float: right;
+    margin-right: 7px;
+}
+
+#top1 label {
+
+    color: antiquewhite;
+    text-shadow: -2px -1px 2px;
+    float: right;
+    width: 100%;
+    margin-right: -60px;
+    
+
+}
+
+#top1 {
+    width: 15%;
+    float: right;
+    margin-right: 10px;
+
+
+}
+
+#top2 ul li {
+    margin-top: 12%;
+    float: left;
+    list-style: none;
+    font-size: 18px;
+    padding-right: 80px;
+    color: antiquewhite;
+    height: 10%;
+
+
+
+
+}
+
+#top2 ul li {
+
+    color: antiquewhite;
+    text-decoration: none;
+    padding-right: 30px;
+    border-right: 1px solid rgba(255, 255, 255, 0.30);
+    right: -400px;
+
+}
+
+#top2 ul li a:visited {
+
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+#top2 {
+    height: 150px;
+    width: 70%;
+    padding-right: 50px;
+}
+
+
+
+#icons a i {
+    border-radius: 80px;
+    font-size: 20px;
+    color: antiquewhite;
+    margin-top: 3px;
+    float: left;
+}
+
+#logo {
+
+    margin-top: 2%;
+}
+
+
+#about {
+
+    width: 100%;
+    height: 350px;
+
+
+}
+
+#count {
+    background: #2b2b2b;
+    float: left;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+
+
+}
+
+#count1 div {
+    width: 100%;
+    background: #2b2b2b;
+    margin-right: 50%;
+    height: 140px;
+
+
+}
+
+#count1 h1 {
+
+    color: #ffbd12;
+    font-size: 60px;
+    font-weight: bolder;
+    float: right;
+    margin-top: 20px;
+    margin-right: 40%;
+    
+
+}
+
+#count1 span {
+    color: blue;
+    font-size: 60px;
+    font-weight: bolder;
+    float: right;
+    margin-top: 20px;
+}
+
+#count div {
+
+    width: 25%;
+    float: right;
+    height: 50px;
+    margin-right: -15px;
+    margin-top: 20px;
+
+
+}
+
+#count div i {
+    font-size: 60px;
+    color: #28a745;
+}
+
+#count div label {
+    color: antiquewhite;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+#count div h2 {
+    font-size: 50px;
+}
+#count2 {
+    color:#ffbd12
+}
+#count3{
+    color:blue;
+}
+#count4{
+color:chocolate;
+}
+#count5{
+    color:darkgoldenrod;
+}
+#part3 div{
+    width:22%;
+    border-radius: 80px;
+    height: 220px;
+    background-color: antiquewhite;
+    float: right;
+    margin-right: 30px;
+    font-size:40px;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bolder;
+
+}
+
+#part3 div i{
+    padding-top:30px;
+    width:100%;
+    padding-bottom: 50px;
+    font-size: 60px;
+}
+
+#part3 :hover{
+   
+    
+    background-color: rgb(100, 233, 48);
+    
+}
+#part3-1 i {
+
+    color:#28a745
+}
+#part3-1 label{
+    color:#ffbd12
+}
+#part3-2 i{
+    color:blueviolet;
+}
+#part3-2 label{
+    color:brown;
+}
+#part3-3 i{
+color:green;
+}
+#part3-3 label {
+    color:red;
+}
+#part3-4 i{
+    color:darkblue
+}
+#part3-4 label{
+    color:darkslategray;
+}
+#part4 div{
+    width:100%;
+    height: 200px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 600px;
+
+}
+#projects{
+    width:100%;
+    margin-left: 5px;
+    height: 630px;
+}
+#projects section{
+width:30%;
+height: 600px;
+float: right;
+margin-right: 20px;
+background-color:#f8f8f8;
+border-radius: 50px;
+border: 1px solid #2b2b2b;
+}
+#projects img{
+width: 400px;  
+height: 300px;
+padding-left: px;
+border-radius: 50px;
+
+}
+#project1label{
+   
+  font-size: 40px;
+  padding-left: 110px;
+  padding-top: 20px;
+  font-weight: bolder;
+}
+#project2label{
+   
+    font-size: 40px;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-weight: bolder;
+  }
+  #project3label{
+   
+    font-size: 40px;
+    padding-left: 45px;
+    padding-top: 20px;
+    font-weight: bolder;
+  }
+  #projects section div a label{
+    margin-left: 150px;
+    padding: 10px;
+    border: 1px solid rgb(228, 15, 15);
+    border-radius: 20px;
+    font-size: 40px;
+    list-style:none;
+    background-color: #f8f8f8;
+    margin-top: 100px;
+    display: block;
+
+
+  }
+  #projects section div a:hover{
+    margin-left: 150px;
+    border: 1px solid black;
+    border-radius: 15px;
+    font-size: 40px;
+    list-style:none;
+    background-color: #28a745;
+    width:1px;
+
+  }
+  #projec1det{
+    padding-top: 80000px;
+  }
+  #newslabel{
+
+    font-weight: bolder;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 30px;
+    width: 100%;
+    height:70px;
+  }
+  #news{
+    width:100%;
+    height:500px;
+  }
+  #news div {
+    width:30%;
+    height: 500px;
+    float:right;
+    margin-right: 20px;
+    border:1px solid #2b2b2b;
+    border-radius: 14px;
+    background-color:#f8f8f8;
+    cursor: pointer;
+
+  }
+  #news div a img{
+    width: 400px;
+    height:300px;
+    border-radius: 40px;
+  }
+#news div a label{
+    text-align:rtl;
+    font-weight: bolder;
+    font-size: 33px;
+    color: #2b2b2b;
+    font-family: 'Tajawal', sans-serif;
+}
+#news1 label{
+    padding-top: 80px;
+}
+#img{
+    width:100%;
+    height:850px;
+}
+
+#news div a label{
+    direction: rtl;
+    padding-right:0px;
+    text-align: justify;
+    display:block;
+}
